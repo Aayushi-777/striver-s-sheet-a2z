@@ -8,6 +8,6 @@ class Solution:
 
 if __name__=="__main__":
     sol=Solution()
-    s="604"
+    s="456"
     res=sol.largest_odd_number(s)
     print(f"The largest odd number in the string is: {res}")
