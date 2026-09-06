@@ -15,5 +15,5 @@ if __name__=="__main__":
     [4, 5, 6],
     [7, 8, 9]]
     print(f"After rotating the matrix 90 degrees:")
-    rotated_mat=sol.rotate_matrix(matrix)
+    sol.rotate_matrix(matrix)
     
